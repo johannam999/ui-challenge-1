@@ -1,0 +1,64 @@
+* {
+  font-family: Calibri;
+}
+
+header {
+  background-color: rgb(233, 140, 140);
+  line-height:75px;
+}
+
+p{
+  text-transform: uppercase ;
+}
+
+.sectionOne {
+  background-color: rgb(187, 230, 173);
+  line-height:150px;
+}
+
+.sectionTwo {
+  background-color: rgb(196, 223, 247);
+  line-height:125px;
+}
+
+.sectionThree {
+  background-color: rgb(245, 232, 134);
+  line-height:125px;
+}
+
+div{
+  background-color: rgb(244, 183, 241);
+}
+
+div li{
+  line-height:250px;
+  text-transform: uppercase ; 
+}
+
+.picOne {
+  background-color: antiquewhite;
+}
+
+.picTwo {
+  background-color: rgb(244, 191, 122)
+}
+
+.picThree {
+  background-color: rgb(240, 218, 132)
+}
+
+.picFour {
+  background-color: antiquewhite
+}
+
+footer {
+  background-color: rgb(230, 244, 164);
+}
+
+ul{
+  list-style-type: none;
+}
+
+footer {
+  line-height:80px;
+}

@@ -1,0 +1,60 @@
+body{
+max-width:480px;
+}
+
+header {
+  width: 100%;
+  height: 75px;
+}
+
+.sectionOne {
+  width: 100%;
+  height: 150px;  
+}
+
+.sectionTwo {
+  width: 100%;
+  height: 125px;
+}
+
+.sectionThree {
+  width: 100%;
+  height: 125px;
+}
+
+div{
+  width: 100%;
+  height: 500px; 
+}
+footer {
+  width: 100%;
+  height: 80px;
+}
+
+ul li {
+  width: 50%;
+  height: 250px;
+  float:left;
+  display:block;
+  text-align:center;
+}
+
+.list ul{
+  padding:0;  
+}
+
+p {
+  margin:0 auto;
+  padding: 0;
+  text-align: center;
+  width:100%;
+}
+
+ul {
+  margin: 0;
+}
+
+p, li {
+  box-sizing: border-box;
+  border: .5px grey solid;
+}
